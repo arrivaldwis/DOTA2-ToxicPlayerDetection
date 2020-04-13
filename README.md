@@ -9,7 +9,7 @@ Arrival Dwi Sentosa (23519035)
 Aplikasi yang bertujuan untuk mendeteksi apakah seorang pemain Dota 2 bersifat toxic atau tidak, berdasarkan rekaman percakapan dalam satu pertandingan.
 
 ### a. Dataset
-Dataset yang digunakan adalah dataset percakapan pemain dalam game Dota 2. Dataset yang digunakan memiliki karakteristik sebagai berikut:<br>
+Dataset yang digunakan adalah dataset percakapan pemain dalam game Dota 2 (https://www.opendota.com/). Dataset yang digunakan memiliki karakteristik sebagai berikut:<br>
 - Mengandung spelling-error,
 - Kebanyakan tidak mengikuti grammatical structure,
 - Mengandung pidgin language, bahasa tidak baku, banyak bahasa bercampur dalam satu kalimat, contoh: 
