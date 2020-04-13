@@ -106,7 +106,7 @@ Model dilatih menggunakan dataset dota 2 chat sebanyak 100 kalimat yang sudah di
 #### i. Teknik
 Pembangunan model Word Embedding menggunakan teknik Skip-Gram.
 ![Skip Gram](img/word_embedding_skip_gram.png)
-Source : https://miro.medium.com/max/1700/0*yxs3JKs5bKc4c_i8.png
+<br>Source : https://miro.medium.com/max/1700/0*yxs3JKs5bKc4c_i8.png
 
 Pada tahap ini juga dibangun, tabel word index yang berisi pemetaan token dan indeks. Tabel word index ini digunakan nantinya untuk membuat tabel word embedding, dan untuk encoding pada modul text classification. Tabel word index bentuknya seperti berikut ini:
 
