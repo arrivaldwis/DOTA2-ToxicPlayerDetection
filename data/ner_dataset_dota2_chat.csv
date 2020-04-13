@@ -1,0 +1,588 @@
+Sentence #;Word;Tag
+Sentence: 1;yes;O
+;dog;B-bad
+Sentence: 2;yeah;O
+Sentence: 3;fast;O
+;and;O
+;furious;O
+Sentence: 4;too;O
+;fas;O
+Sentence: 5;haha;O
+Sentence: 6;sad;O
+Sentence: 7;no;O
+;idiot;B-bad
+Sentence: 8;we;O
+;too;I-pra
+;pro;I-pra
+Sentence: 9;lol;O
+Sentence: 10;HAHAH;O
+Sentence: 11;COMMEND;O
+;ME;O
+;TY;B-pra
+Sentence: 12;EZ;O
+Sentence: 13;so;O
+;ya;O
+;mama;B-bad
+;likes;I-bad
+;dick;B-bad
+;ehh;O
+;?;O
+Sentence: 14;ur;O
+;not;O
+;even;O
+;a;O
+;good;O
+;hooker;B-her
+;kid;O
+Sentence: 15;passive;O
+;shadow;B-her
+;blade;I-her
+;?;O
+Sentence: 16;gg;B-pra
+Sentence: 17;reprot;O
+Sentence: 18;SAD;O
+Sentence: 19;fucking;B-bad
+;reported;O
+;axe;B-her
+Sentence: 20;WORST;B-bad
+;HOOK;I-bad
+;IN;O
+;HISTORY;O
+Sentence: 21;YOU;O
+;THOUGHT;O
+Sentence: 22;IM;O
+;THE;O
+;#;O
+;1;O
+;ROAMER;B-her
+;NA;O
+Sentence: 23;STUPIDD;B-bad
+;PIUDGE;B-her
+Sentence: 24;STUPID;B-bad
+;!;O
+Sentence: 25;nice;B-pra
+;ult;O
+;medusa;B-her
+Sentence: 26;commended;O
+Sentence: 27;downys;O
+;get;O
+;dumked;O
+Sentence: 28;ez;O
+;game;O
+Sentence: 29;ty;B-pra
+;ty;I-pra
+Sentence: 30;SOOO;B-pra
+;EZQ;I-pra
+;!;O
+Sentence: 31;commend;O
+;me;O
+;!;O
+Sentence: 32;command;O
+;me;O
+;!!;O
+Sentence: 33;gg;B-pra
+Sentence: 34;axe;B-her
+;is;O
+;axe;B-her
+Sentence: 35;sorry;O
+;nex;O
+Sentence: 36;i;O
+;killed;O
+;u;O
+Sentence: 37;almost;O
+Sentence: 38;gg;B-pra
+Sentence: 39;PUSH;O
+Sentence: 40;not;O
+;defending;O
+Sentence: 41;dodger;B-her
+;lc;O
+Sentence: 42;swap;O
+;commend;O
+;ty;B-pra
+Sentence: 43;swap;O
+;commend;O
+;ty;B-pra
+Sentence: 44;what;O
+Sentence: 45;jeje;O
+;fAM;O
+Sentence: 46;free;O
+;farming;O
+;ls;O
+Sentence: 47;not;O
+;coming;O
+;into;O
+;play;O
+Sentence: 48;let;O
+;end;O
+Sentence: 49;storm;O
+;fat;O
+;yet;O
+Sentence: 50;zzz;O
+Sentence: 51;okay;O
+Sentence: 52;u;O
+;useless;O
+;anyways;O
+Sentence: 53;does;O
+;it;O
+;matter;O
+Sentence: 54;30;O
+;mins;O
+;in;O
+Sentence: 55;cant;O
+;seem;O
+;to;O
+;hit;O
+;a;O
+;singel;O
+;call;O
+Sentence: 56;rofl;O
+Sentence: 57;still;O
+;didn't;O
+;hirt;O
+Sentence: 58;aha;O
+Sentence: 59;better;O
+;share;O
+;hero;B-her
+;control;O
+Sentence: 60;to;O
+;someone;O
+;else;O
+Sentence: 61;might;O
+;start;O
+;hitting;O
+;your;O
+;q;O
+Sentence: 62;rofl;O
+Sentence: 63;fucking;B-bad
+Sentence: 64;retard;O
+Sentence: 65;yea;O
+Sentence: 66;he;O
+;had;O
+;an;O
+Sentence: 67;amazing;B-pra
+;blast;O
+;laen;O
+Sentence: 68;at;O
+;mid;O
+Sentence: 69;20;O
+;mind;O
+;scythe;O
+;on;O
+;od;O
+Sentence: 70;yet;O
+;my;O
+Sentence: 71;ls;O
+Sentence: 72;wants;O
+;to;O
+;farm;O
+Sentence: 73;his;O
+;orchid;O
+Sentence: 74;die;O
+;btitch;B-bad
+Sentence: 75;oh;O
+Sentence: 76;my;B-pra
+;god;I-pra
+Sentence: 77;oh;O
+;my;B-pra
+;god;I-pra
+Sentence: 78;oh;O
+Sentence: 79;my;O
+Sentence: 80;fucking;B-bad
+;god;I-bad
+Sentence: 81;heartshaker;B-her
+Sentence: 82;man;O
+;that;O
+;silence;O
+;on;O
+;axe;O
+Sentence: 83;good;B-pra
+;game;I-pra
+Sentence: 84;yeah;O
+Sentence: 85;well;B-pra
+;played;I-pra
+Sentence: 86;gege;B-pra
+;guys;O
+Sentence: 87;hahahahaha;O
+Sentence: 88;sad;O
+Sentence: 89;Y;O
+Sentence: 90;clash;O
+Sentence: 91;zzz;O
+Sentence: 92;u;O
+;lost;O
+;4v4;O
+Sentence: 93;yeah;O
+Sentence: 94;do;O
+;i;O
+;care;O
+Sentence: 95;rofl;O
+Sentence: 96;call;O
+;your;O
+;mom;O
+Sentence: 97;you;O
+;better;O
+;call;O
+;your;O
+;mom;O
+;od;B-bad
+Sentence: 98;u;O
+;need;O
+;her;O
+;breastfeed;B-bad
+Sentence: 99;?;O
+Sentence: 100;q;O
+;?;O
+Sentence: 101;whats;O
+;q;O
+Sentence: 102;i;O
+;don't;O
+;know;O
+;q;O
+;bruh;O
+;?;O
+Sentence: 103;i;O
+;play;O
+;legacy;O
+Sentence: 104;u;O
+;play;O
+;lol;O
+;gg;I-pra
+Sentence: 105;end;O
+Sentence: 106;end;O
+Sentence: 107;ehnd;O
+Sentence: 108;sadsadnsadsa;O
+Sentence: 109;dsad;O
+Sentence: 110;get;O
+;back;O
+Sentence: 111;over;O
+;dose;O
+Sentence: 112;pls;O
+Sentence: 113;i;O
+;got;O
+;you;O
+Sentence: 114;no;O
+;call;O
+Sentence: 115;no;O
+;load;O
+Sentence: 116;wer;O
+;are;O
+;you;O
+;od;O
+Sentence: 117;wrong;O
+;person;O
+Sentence: 118;fuckkk;B-pra
+;youuuuu;I-pra
+Sentence: 119;ty;B-pra
+;pudge;O
+Sentence: 120;drow;O
+Sentence: 121;remember;O
+;me;O
+;last;O
+;game;O
+Sentence: 122;haha;O
+Sentence: 123;waot;O
+Sentence: 124;haha;O
+Sentence: 125;ec;O
+Sentence: 126;haha;O
+Sentence: 127;nca;O
+;game;O
+Sentence: 128;commend;O
+;me;O
+Sentence: 129;????;O
+Sentence: 130;xd;O
+Sentence: 131;so;O
+;good;B-pra
+;game;I-pra
+Sentence: 132;3;O
+;griefers;B-her
+;versus;O
+;ti;O
+;finals;O
+;tryhards;O
+Sentence: 133;yes;O
+Sentence: 134;good;B-pra
+;game;I-pra
+;was;O
+;had;O
+Sentence: 135;well;B-pra
+;played;I-pra
+;shit;O
+;cunts;O
+Sentence: 136;feed;O
+;me;O
+Sentence: 137;go;O
+;bot;O
+Sentence: 138;please;O
+;don't;O
+;be;O
+;a;O
+;trap;O
+Sentence: 139;ee;O
+;sama;O
+;is;O
+;here;O
+Sentence: 140;happy;O
+;no;O
+;cour;O
+;day;O
+Sentence: 141;i;O
+;will;O
+Sentence: 142;sure;O
+Sentence: 143;no;O
+;trap;O
+Sentence: 144;only;O
+;me;O
+Sentence: 145;lol;O
+Sentence: 146;ee;O
+Sentence: 147;good;O
+;game;O
+Sentence: 148;i;O
+;go;O
+;away;O
+;from;O
+;keyboard;O
+Sentence: 149;all;O
+;report;O
+;tinker;O
+;please;O
+Sentence: 150;he;O
+;is;O
+;troller;O
+Sentence: 151;that;O
+;team;O
+Sentence: 152;commend;O
+;me;O
+Sentence: 153;ggwp;B-pra
+Sentence: 154;because;O
+;you;O
+;have;O
+;blink;O
+Sentence: 155;this;O
+;is;O
+;kotl;O
+;from;O
+;last;O
+;game;O
+;,;O
+;can;O
+;you;O
+;just;O
+;let;O
+;us;O
+;finish;O
+;?;O
+Sentence: 156;never;O
+;give;B-pra
+;up;I-pra
+Sentence: 157;dance;O
+Sentence: 158;gg;O
+Sentence: 159;fking;B-bad
+;clock;O
+Sentence: 160;talking;O
+;more;O
+Sentence: 161;ez;O
+;dog;B-bad
+Sentence: 162;otak;B-bad
+;cibai;I-bad
+Sentence: 163;lancau;B-bad
+Sentence: 164;pro;B-pra
+;clock;B-her
+Sentence: 165;haha;O
+Sentence: 166;bro;O
+Sentence: 167;u;O
+;can;O
+Sentence: 168;see;O
+;axe;O
+;?;O
+Sentence: 169;call;O
+;?;O
+Sentence: 170;gg;B-pra
+Sentence: 171;lolol;O
+Sentence: 172;150;O
+;bashes;O
+Sentence: 173;fucking;B-bad
+;dogs;I-bad
+Sentence: 174;ez;O
+;game;O
+Sentence: 175;ez;O
+;mid;O
+;,;O
+;easy;O
+;game;O
+;.;O
+Sentence: 176;end;O
+Sentence: 177;woow;B-pra
+Sentence: 178;comback;O
+;is;O
+;real;O
+Sentence: 179;gg;O
+;noob;B-bad
+Sentence: 180;now;O
+;he;O
+;rolls;O
+Sentence: 181;end;O
+Sentence: 182;next;O
+;game;O
+Sentence: 183;fuck;O
+;this;O
+;pango;B-her
+Sentence: 184;save;O
+;rolls;O
+;for;O
+;next;O
+;game;O
+Sentence: 185;see;O
+Sentence: 186;look;O
+;at;O
+;him;O
+Sentence: 187;passive;O
+Sentence: 188;now;O
+;he;O
+;roll;O
+Sentence: 189;again;O
+Sentence: 190;if;O
+;i;O
+;know;O
+;him;O
+;in;O
+;real;O
+;life;O
+Sentence: 191;i;O
+;would;O
+;have;O
+;kill;B-bad
+;him;I-bad
+Sentence: 192;fucking;B-bad
+;noob;B-bad
+;pango;B-her
+Sentence: 193;dude;O
+;he;O
+;rage;B-her
+;quit;O
+Sentence: 194;not;O
+;coming;O
+;back;O
+Sentence: 195;leave;O
+;la;O
+;idiot;B-bad
+Sentence: 196;shutup;B-bad
+;nerd;I-bad
+Sentence: 197;lag;O
+;the;O
+;fuck;B-bad
+;up;I-bad
+Sentence: 198;stop;O
+;pause;O
+;idiot;B-bad
+Sentence: 199;omg;O
+Sentence: 200;stupide;B-bad
+;kids;I-bad
+Sentence: 201;fuck;B-bad
+;this;O
+;shit;B-bad
+;nap;O
+;team;O
+Sentence: 202;rly;O
+Sentence: 203;fuck;B-bad
+;this;O
+;team;O
+Sentence: 204;bots;O
+;play;B-bad
+;better;I-bad
+Sentence: 205;you;O
+;know;O
+Sentence: 206;im;O
+;cancer;B-her
+;what;O
+;the;O
+;fuck;B-bad
+;waste;I-bad
+Sentence: 207;ii;O
+;will;O
+;rap;B-bad
+;you;I-bad
+;moron;O
+Sentence: 208;you;O
+;are;O
+;stupid;B-bad
+Sentence: 209;lol;O
+Sentence: 210;have;O
+;fun;O
+;boys;O
+Sentence: 211;i;O
+;love;B-pra
+;you;I-pra
+Sentence: 212;ggwp;B-pra
+Sentence: 213;good;B-pra
+;luck;I-pra
+Sentence: 214;get;O
+;fucked;O
+;good;B-pra
+;game;I-pra
+Sentence: 215;suck;B-bad
+;my;I-bad
+;dick;I-bad
+Sentence: 216;report;O
+;please;O
+;my;O
+;teams;O
+Sentence: 217;gay;B-bad
+;mirana;B-her
+Sentence: 218;helo;O
+Sentence: 219;i;O
+;fuck;B-bad
+;your;I-bad
+;young;I-bad
+;mom;I-bad
+Sentence: 220;noobs;B-bad
+Sentence: 221;nice;O
+;one;O
+Sentence: 222;am;O
+;said;O
+Sentence: 223;no;O
+;support;O
+;someone;O
+Sentence: 224;nice;B-pra
+Sentence: 225;thank;B-pra
+;you;I-pra
+Sentence: 226;4;O
+;waiting;O
+Sentence: 227;what;O
+;are;O
+;well-played;B-pra
+Sentence: 228;supposed;O
+;to;O
+;do;O
+Sentence: 229;without;O
+;a;O
+;carry;O
+Sentence: 230;report;O
+;him;O
+Sentence: 231;how;O
+;often;O
+;are;O
+;you;O
+;going;O
+;to;O
+;suicide;O
+Sentence: 232;kill;O
+;me;O
+Sentence: 233;he;O
+;survived;O
+Sentence: 234;relax;B-pra
+Sentence: 235;fucking;B-bad
+;someone;O
+;who;O
+;is;O
+;new;O
+;hero;O
+Sentence: 236;my;O
+;god;O
+Sentence: 237;good;B-pra
+;game;I-pra
+Sentence: 238;dude;O
+Sentence: 239;i;O
+;see;O
+;you;O
+Sentence: 240;gg;B-pra
+Sentence: 241;good;B-pra
+;game;I-pra
