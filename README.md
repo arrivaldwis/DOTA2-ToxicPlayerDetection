@@ -1,6 +1,6 @@
 # Dota 2 Toxic Player Detection
 IF6082 Pemrosesan Bahasa Alami
-Institut Teknologi Bandung
+<br>Institut Teknologi Bandung
 
 Arrival Dwi Sentosa (23519035)
 
@@ -40,7 +40,7 @@ Valve sebagai pengembang game ini telah melakukan beberapa hal untuk menekan per
 ## 3.	Aplikasi Sejenis
 Penelitian tentang memprediksi hasil pertandingan menggunakan riwayat percakapan pada game Dota [4]. Penelitian tersebut menggunakan dataset Dota. Dota adalah versi lama dari Dota 2 yang merupakan game custom map pada game Warcraft III. Model prediksi dibangun menggunakan Support Vector Machine (SVM) dan feature menggunakan TF-IDF dengan N-gram. Penelitian tersebut bertujuan untuk menunjukkan bahwa perilaku toxic memiliki dampak, sehingga riwayat percakapan dapat dijadikan fitur untuk memprediksi hasil dari pertandingan dalam game tersebut. Penelitian tersebut menemukan bahwa tim yang kalah lebih cenderung perilaku toxic. Tetapi perilaku chat melalu percakapan tidak dapat digunakan untuk menentukan hasil dari sebuah pertandingan, karena akurasinya rendah yaitu sekitar 65%.
 
-![Skip Gram](img/predication_result_using_bad.png)
+![Skip Gram](img/predication_result_using_bad.PNG)
 
 Model untuk identifikasi percakapan mengandung toxic atau tidak pada penelitian tersebut digunakan untuk kebutuhan analisis saja, bukan bagian dari salah satu modul dalam pembuatan model prediksi. Model tersebut nantinya dipakai untuk mendukung hipotesisnya bahwa perilaku toxic itu berdampak pada jalannya permainan. 
 
